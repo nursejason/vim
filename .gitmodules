@@ -7,3 +7,9 @@
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = https://github.com/altercation/vim-colors-solarized
+[submodule "bundle/impact-config"]
+	path = bundle/impact-config
+	url = git@github.comcast.com:jjob200/impact-config.git
+[submodule "config"]
+	path = config
+	url = git@github.comcast.com:jjob200/impact-config.git
