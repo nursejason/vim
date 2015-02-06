@@ -13,3 +13,6 @@
 [submodule "config"]
 	path = config
 	url = git@github.comcast.com:jjob200/impact-config.git
+[submodule "bundle/vim-golang"]
+	path = bundle/vim-golang
+	url = https://github.com/fatih/vim-go
