@@ -16,3 +16,6 @@
 [submodule "bundle/vim-golang"]
 	path = bundle/vim-golang
 	url = https://github.com/fatih/vim-go
+[submodule "bundle/vim-awesome"]
+	path = bundle/vim-awesome
+	url = https://nursejason@github.com/tpope/vim-commentary
