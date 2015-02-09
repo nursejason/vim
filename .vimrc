@@ -8,10 +8,12 @@ let g:solarized_termcolors=256
 colorscheme solarized
 
 " --------- VARIOUS CONFIGS ---------
-" ---------  jason 2/6/15  ----------
+" ---------  jason 2/9/15  ----------
 set autoindent                   " Autoindent
-set backspace=indent,eol,start   " Allow backspacing over autoindent, line breaks, and start of insert action
+set backspace=indent,eol,start   " backspace over autoindent, line breaks, and start of insert
+set cc=80                        " 80 char line
 set directory-=.                 " Don't store swap files in current dir
+
 set encoding=utf-8               " UTF-8 Encoding
 
 set hlsearch                     " highlight things we find with search
