@@ -1,14 +1,14 @@
-Clone recursively to get submodules
+Clone recursively to get submodules     
 `git submodule foreach --recursive git checkout master`
 
-Rename old .vim folder
+Rename old .vim folder     
 `mv .vim .oldvim`
 
-Rename new vim folder
+Rename new vim folder     
 `mv vim .vim`
 
-Rename old vimrc
+Rename old vimrc     
 `mv .vimrc .oldvimrc`
 
-And finally copy new vimrc over
-`cp .vim/.vimrc .vimrc
+And finally copy new vimrc over     
+`cp .vim/.vimrc .vimrc`
