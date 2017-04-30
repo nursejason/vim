@@ -7,12 +7,6 @@
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = https://github.com/altercation/vim-colors-solarized
-[submodule "bundle/impact-config"]
-	path = bundle/impact-config
-	url = git@github.comcast.com:jjob200/impact-config.git
-[submodule "config"]
-	path = config
-	url = git@github.comcast.com:jjob200/impact-config.git
 [submodule "bundle/vim-golang"]
 	path = bundle/vim-golang
 	url = https://github.com/fatih/vim-go
@@ -25,3 +19,6 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary
